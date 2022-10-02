@@ -1,0 +1,10 @@
+{
+    "name": "iuta/cine-iuta",
+    "description": "Panel administrativo Cine Iuta",
+    "autoload": {
+        "psr-4": {
+            "Iuta\\CineIuta\\": "src/"
+        }
+    },
+    "require": {}
+}
